@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Sample Test Suite" duration-ms="38042" started-at="2020-08-08T10:06:05Z" finished-at="2020-08-08T10:06:43Z">
+    <groups>
+    </groups>
+    <test name="Sample Test" duration-ms="38042" started-at="2020-08-08T10:06:05Z" finished-at="2020-08-08T10:06:43Z">
+      <class name="LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:LoginTest@67b64c45]" name="setUp" is-config="true" duration-ms="7433" started-at="2020-08-08T10:06:05Z" finished-at="2020-08-08T10:06:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="successfulLoginTest()[pri:0, instance:LoginTest@67b64c45]" name="successfulLoginTest" duration-ms="23271" started-at="2020-08-08T10:06:13Z" finished-at="2020-08-08T10:06:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successfulLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:LoginTest@67b64c45]" name="tearDown" is-config="true" duration-ms="863" started-at="2020-08-08T10:06:36Z" finished-at="2020-08-08T10:06:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:LoginTest@67b64c45]" name="setUp" is-config="true" duration-ms="5597" started-at="2020-08-08T10:06:37Z" finished-at="2020-08-08T10:06:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="unsuccessfulLoginTest()[pri:0, instance:LoginTest@67b64c45]" name="unsuccessfulLoginTest" duration-ms="1" started-at="2020-08-08T10:06:42Z" finished-at="2020-08-08T10:06:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- unsuccessfulLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:LoginTest@67b64c45]" name="tearDown" is-config="true" duration-ms="839" started-at="2020-08-08T10:06:42Z" finished-at="2020-08-08T10:06:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- LoginTest -->
+    </test> <!-- Sample Test -->
+  </suite> <!-- Sample Test Suite -->
+</testng-results>
